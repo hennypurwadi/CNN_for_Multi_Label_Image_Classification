@@ -1,3 +1,5 @@
+This is a collaborative Project with Nareshwar: https://github.com/nareshwar/uhull-module-2
+
 Step-by-Step Guide to Build a CNN for Multi-Label Classification Problems:
 1. Import Libraries and Function
 Begin by importing all the required libraries and functions for data processing, model building, and evaluation.
