@@ -62,7 +62,7 @@ After Final evaluation on the test set, we will visualize the results using a cl
 
 ---------------------------------------------------------------------------
 
-## Triple MNIST (Multi labels dataset) Project Report:
+## Project Report:
 
 ### Dataset Overview and Pre-processing 
 Focusing on the objectives and importance of multi-label classification on multiple digits from images, where each image contains several digits. The dataset for this project consists of images each labelled with three digits.  
