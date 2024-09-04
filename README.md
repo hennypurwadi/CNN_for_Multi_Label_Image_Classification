@@ -9,7 +9,7 @@ This project presents a detailed approach to develop a Convolutional Neural Netw
 Research Question
 How do different activation and loss functions (Sigmoid vs. SoftMax, categorical cross-entropy vs. binary cross-entropy) impact the performance of Convolutional Neural Networks (CNNs) in multi-label digit classification on the Triple MNIST dataset. What are the effects of hyperparameter tuning on the model’s accuracy and loss?
 
-=====================================================================================================================
+===================================================================================
 
 Step-by-Step Guide to Build a CNN for Multi-Label Classification Problems:
 1. Import Libraries and Function
