@@ -10,7 +10,9 @@ Dataset link: https://huggingface.co/datasets/khushpatel2002/triple-mnist/tree/m
 This project presents a detailed approach to develop a Convolutional Neural Network (CNN) for multi-label image classification using the Triple MNIST dataset, which contains images of three handwritten digits. We explore the impact of different activation functions such as SoftMax vs. Sigmoid, and comparing loss functions such as categorical cross-entropy vs. binary cross-entropy on model performance. The project follows a step-by-step methodology for data preprocessing, model building, and hyperparameter tuning, using techniques such as K-fold cross-validation, early stopping, and learning rate scheduling to optimize the model. Post-training evaluations using Grad-CAM and saliency maps provide the insights into the model's decision-making process. The study concludes with recommendations for applying these techniques to real-world multi-label classification tasks and suggests further research using this dataset.
 
 ## Research Question
-How do different activation and loss functions (Sigmoid vs. SoftMax, categorical cross-entropy vs. binary cross-entropy) impact the performance of Convolutional Neural Networks (CNNs) in multi-label digit classification on the Triple MNIST dataset. What are the effects of hyperparameter tuning on the model’s accuracy and loss?
+1. How do different activation and loss functions (Sigmoid vs. SoftMax, categorical cross-entropy vs. binary cross-entropy) impact the performance of Convolutional Neural Networks (CNNs) in multi-label digit classification on the Triple MNIST dataset?
+   
+2. What are the effects of hyperparameter tuning on the model’s accuracy and loss?
 
 ===================================================================================
 
